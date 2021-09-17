@@ -1,0 +1,2 @@
+# Coin
+Crypto trading project
